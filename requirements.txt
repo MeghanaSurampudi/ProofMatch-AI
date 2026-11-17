@@ -1,0 +1,1 @@
+streamlit>=1.36,<2.0\nscikit-learn>=1.4,<2.0\npypdf>=4.2,<7.0\npython-docx>=1.1,<2.0\n
